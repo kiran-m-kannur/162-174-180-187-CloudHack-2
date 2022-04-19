@@ -2,13 +2,13 @@
 
 Team members details:
 
-A Spoorthi Alva - PES2UG19CS001
+Jayanth Kumar - PES2UG19CS162
 
-A R Manyatha - PES2UG19CS002 
+Pranav Kale - PES2UG19CS174
 
-Achyut Jagini - PES2UG19CS013
+Kedarnath Bhat - PES2UG19CS180
 
-Amulya S Dinesh - PES2UG19CS035
+Kiran M Kannur - PES2UG19CS187
 
 
 
